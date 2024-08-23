@@ -21,6 +21,6 @@ This is a simple yet fully functional To-Do List application built using vanilla
    git clone https://github.com/sujitkumarmalik/To-do-list.git
 
 ## Screenshorts
-![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112717.png)
+![img](https://github.com/sujitkumarmalik/To-do-list/blob/main/Screenshot%202024-08-23%20114556.png)
 
    
